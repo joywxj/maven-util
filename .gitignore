@@ -6,8 +6,15 @@
 
 # BlueJ files
 *.ctxt
+
 # yml 配置文件
 *.yml
+
+*.iml
+
+/target/
+
+.settings/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
