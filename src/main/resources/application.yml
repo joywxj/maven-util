@@ -4,3 +4,5 @@ logging:
     com.wxj.controller: debug
     com.wxj.dao: debug
     com.netflix.discovery: 'OFF'
+
+  配置
