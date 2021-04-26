@@ -1,0 +1,6 @@
+logging:
+  file: \utils\maven-utils.log
+  level:
+    com.wxj.controller: debug
+    com.wxj.dao: debug
+    com.netflix.discovery: 'OFF'
